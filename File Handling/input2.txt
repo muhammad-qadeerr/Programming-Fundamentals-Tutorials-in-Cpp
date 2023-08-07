@@ -1,0 +1,9 @@
+6
+23
+45
+67
+89
+-99
+34
+23
+This file has 1st int as a number of count
